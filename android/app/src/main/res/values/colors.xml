@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#CC33FF</color>
+    <color name="splash_background">#cc33ff</color>
+    <color name="statusBar_Color">#000000</color>
+</resources>
